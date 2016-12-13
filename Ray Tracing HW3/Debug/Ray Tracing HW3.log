@@ -1,0 +1,91 @@
+﻿  Source.cpp
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\mat4x4.h(268): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(273): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(270): warning C4101: 'intPart': unreferenced local variable
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(282): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(302): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(313): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(339): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(343): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(371): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(373): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(485): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(493): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(494): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(651): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(654): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(656): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(659): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(660): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(661): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(675): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(683): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(698): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(705): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(810): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(811): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(811): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(815): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(824): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(824): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(826): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(826): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(828): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(829): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(830): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(833): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(834): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(836): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(837): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(840): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(842): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(845): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(847): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(855): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(855): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(861): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(862): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(864): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(865): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(867): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(868): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(874): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(876): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(878): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(881): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(882): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(883): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(889): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(892): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(893): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(928): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(936): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(938): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(940): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(942): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(946): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(951): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(955): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(973): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(977): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(993): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(994): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(995): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1017): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1043): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1044): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1052): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1062): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1062): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1064): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1064): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1068): warning C4018: '<': signed/unsigned mismatch
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1094): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1095): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\morgan\documents\visual studio 2015\projects\ray tracing hw3\ray tracing hw3\source.cpp(1138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ray Tracing HW3.vcxproj -> C:\Users\Morgan\documents\visual studio 2015\Projects\Ray Tracing HW3\Debug\Ray Tracing HW3.exe
+  Ray Tracing HW3.vcxproj -> C:\Users\Morgan\documents\visual studio 2015\Projects\Ray Tracing HW3\Debug\Ray Tracing HW3.pdb (Partial PDB)
